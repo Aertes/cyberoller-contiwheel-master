@@ -1,0 +1,57 @@
+{
+  "code": 200,
+  "message": "加载成功",
+  "data": [
+    {
+      "title": "昨日新增会员",
+      "sources": "155",
+      "date": "2016-10-28",
+      "isShow": true,
+      "icon": "fa-line-chart",
+      "color": "bg-aqua"
+    },
+    {
+      "title": "过去7天新增会员",
+      "sources": "3565",
+      "date": "2016-10-22",
+      "endDate": "2016-10-28",
+      "isShow": true,
+      "icon": "fa-line-chart",
+      "color": "bg-green"
+    },
+    {
+      "title": "上月新增会员",
+      "sources": "23421",
+      "date": "2016-09-01",
+      "endDate": "2016-09-30",
+      "isShow": false,
+      "icon": "fa-line-chart",
+      "color": "bg-yellow"
+    },
+    {
+      "title": "至昨天为止所有会员",
+      "sources": "325235",
+      "date": "2016-10-28",
+      "isShow": true,
+      "icon": "fa-area-chart",
+      "color": "bg-red"
+    },
+    {
+      "title": "昨日优惠券发放数",
+      "sources": "2344",
+      "date": "2016-10-28",
+      "isShow": true,
+      "icon": "fa-send",
+      "color": "bg-aqua"
+    },
+    {
+      "title": "上月优惠券发放数",
+      "sources": "23421",
+      "date": "2016-09-01",
+      "endDate": "2016-09-30",
+      "isShow": true,
+      "icon": "fa-send-o",
+      "color": "bg-green"
+    }
+  ]
+}

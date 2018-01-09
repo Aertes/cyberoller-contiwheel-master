@@ -1,0 +1,12 @@
+@import "../../source";
+
+.menu_content {
+  .el-tree {
+    border: none;
+    overflow: hidden;
+  }
+  .active {
+    color: $baseColor;
+  }
+}
+

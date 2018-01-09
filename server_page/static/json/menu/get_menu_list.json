@@ -1,0 +1,300 @@
+{
+  "code": 200,
+  "message": "加载成功",
+  "data": [
+    {
+      "id": 1,
+      "name": "基础数据管理",
+      "icon": "fa-tachometer",
+      "child": [
+        {
+          "id": 2,
+          "url": "/app/product",
+          "name": "产品维护",
+          "icon": "fa-shopping-basket"
+        },
+        {
+          "id": 3,
+          "url": "/app/area",
+          "name": "区域维护",
+          "icon": "fa-globe"
+        },
+        {
+          "id": 4,
+          "url": "/app/store",
+          "name": "门店维护",
+          "icon": "fa-home"
+        },
+        {
+          "id": 5,
+          "url": "/app/message",
+          "name": "短信维护",
+          "icon": "fa-envelope-o"
+        },
+        {
+          "id": 6,
+          "url": "/app/date",
+          "name": "日期维护",
+          "icon": "fa-calendar"
+        },
+        {
+          "id": 7,
+          "url": "/a/bb",
+          "name": "二维码管理",
+          "icon": "fa-qrcode"
+        },
+        {
+          "id": 8,
+          "url": "/a/bb",
+          "name": "编码设置",
+          "icon": "fa-barcode"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "支付宝服务窗",
+      "icon": "fa-cny",
+      "child": [
+        {
+          "id": 92,
+          "url": "/app/ali_fans",
+          "name": "服务窗粉丝",
+          "icon": "fa-user-o"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "公众号管理",
+      "icon": "fa-wechat",
+      "child": [
+        {
+          "id": 10,
+          "url": "/app/wechat_fans",
+          "name": "粉丝管理",
+          "icon": "fa-user-o"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "会员管理",
+      "icon": "fa-users",
+      "child": [
+        {
+          "id": 12,
+          "url": "/app/member_group",
+          "name": "分组管理",
+          "icon": "fa-group"
+        },
+        {
+          "id": 13,
+          "url": "/app/member_info",
+          "name": "会员管理",
+          "icon": "fa-user"
+        },
+        {
+          "id": 14,
+          "url": "/app/member_order",
+          "name": "订单查询",
+          "icon": "fa-search-plus"
+        },
+        {
+          "id": 15,
+          "url": "/app/member_tag",
+          "name": "标签管理",
+          "icon": "fa-tags"
+        },
+        {
+          "id": 16,
+          "url": "/app/member_complain",
+          "name": "意见咨询",
+          "icon": "fa-comments-o"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "会员卡管理",
+      "icon": "fa-credit-card-alt",
+      "child": [
+        {
+          "id": 18,
+          "url": "/app/productManage/productList",
+          "name": "会员卡管理",
+          "icon": "fa-credit-card"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "积分规则管理",
+      "icon": "fa-sitemap",
+      "child": [
+        {
+          "id": 20,
+          "url": "/app/integral_complain",
+          "name": "积分规则管理",
+          "icon": "fa-sitemap"
+        },
+        {
+          "id": 21,
+          "url": "/app/productManage/productList",
+          "name": "积分查询",
+          "icon": "fa-search"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "等级规则管理",
+      "icon": "fa-sort-amount-asc",
+      "child": [
+        {
+          "id": 23,
+          "url": "/app/productManage/productList",
+          "name": "等级规则管理",
+          "icon": "fa-sort-amount-asc"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "优惠券管理",
+      "icon": "fa-money",
+      "child": [
+        {
+          "id": 25,
+          "url": "/app/productManage/productList",
+          "name": "优惠券管理",
+          "icon": "fa-money"
+        },
+        {
+          "id": 26,
+          "url": "/app/productManage/productList",
+          "name": "优惠券核销",
+          "icon": "fa-window-close"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "活动管理",
+      "icon": "fa-smile-o",
+      "child": [
+        {
+          "id": 28,
+          "url": "/app/productManage/productList",
+          "name": "生命周期",
+          "icon": "fa-line-chart"
+        },
+        {
+          "id": 29,
+          "url": "/app/productManage/productList",
+          "name": "舆情活动",
+          "icon": "fa-files-o"
+        },
+        {
+          "id": 30,
+          "url": "/app/productManage/productList",
+          "name": "互动游戏",
+          "icon": "fa-gamepad"
+        },
+        {
+          "id": 31,
+          "url": "/app/productManage/productList",
+          "name": "消费促进",
+          "icon": "fa-gift"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "报表统计",
+      "icon": "fa-tachometer",
+      "child": [
+        {
+          "id": 33,
+          "url": "/app/productManage/productList",
+          "name": "消费频次",
+          "icon": "fa-shopping-bag"
+        },
+        {
+          "id": 34,
+          "url": "/app/productManage/productList",
+          "name": "会员地区分布",
+          "icon": "fa-map"
+        },
+        {
+          "id": 35,
+          "url": "/app/productManage/productList",
+          "name": "会员年龄统计",
+          "icon": "fa-bar-chat"
+        },
+        {
+          "id": 36,
+          "url": "/app/productManage/productList",
+          "name": "会员来源渠道",
+          "icon": "fa-sitemap"
+        },
+        {
+          "id": 37,
+          "url": "/app/productManage/productList",
+          "name": "粉丝来源渠道",
+          "icon": "fa-sitemap"
+        },
+        {
+          "id": 38,
+          "url": "/app/productManage/productList",
+          "name": "订单统计",
+          "icon": "fa-pie-chart"
+        },
+        {
+          "id": 39,
+          "url": "/app/productManage/productList",
+          "name": "优惠券月统计",
+          "icon": "fa-signal"
+        },
+        {
+          "id": 40,
+          "url": "/app/productManage/productList",
+          "name": "积分统计",
+          "icon": "fa-edit"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "商城管理",
+      "icon": "fa-shopping-cart",
+      "child": [
+        {
+          "id": 42,
+          "url": "/app/productManage/productList",
+          "name": "积分兑换",
+          "icon": "fa-exchange"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "储值管理",
+      "icon": "fa-dollar",
+      "child": [
+        {
+          "id": 44,
+          "url": "/app/recharge_history",
+          "name": "账户查询",
+          "icon": "fa-search"
+        },
+        {
+          "id": 45,
+          "url": "/app/recharge_activity",
+          "name": "储值活动",
+          "icon": "fa-money"
+        }
+      ]
+    }
+  ]
+}
